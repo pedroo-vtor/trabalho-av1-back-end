@@ -1,8 +1,8 @@
 # Produtos Papelaria
 
-## URLs
+## Rotas
 
-**Create:** `/create/<string:produto>`  
-**Read:** `/read`  
-**Update:** `/update/<int:indice>/<string:produto>`  
-**Delete:** `/delete/<int:indice>`
+- **Create:** `/create/<string:produto>`  
+- **Read:** `/read`  
+- **Update:** `/update/<int:indice>/<string:produto>`  
+- **Delete:** `/delete/<int:indice>`
